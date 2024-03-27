@@ -32,6 +32,8 @@ Learning about Kubernetes
 
 - [[YouTube] Do NOT Learn Kubernetes Without Knowing These Concepts... | Travis Media](https://www.youtube.com/watch?v=wXuSqFJVNQA) (2023/11/12)
 
+- [[YouTube] Kubernetes Explained in 15 Minutes - Hands On | Travis Media](https://www.youtube.com/watch?v=r2zuL9MW6wc) (2024/01/14)
+
 - [Introduction to Kubernetes - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/) - get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.
 
 - [[YouTube] Kubernetes Crash Course: Learn the Basics and Build a Microservice Application | KodeKloud](https://www.youtube.com/watch?v=XuSQU5Grv1g) (2023/03/31)
@@ -66,7 +68,13 @@ Learning about Kubernetes
 
 - [[YouTube] Kubernetes 101: Deploying Your First Application! | DevOps Directive](https://www.youtube.com/watch?v=XltFOyGanYE) (2022/08/01)
 
+### Courses
+
+- [[Udemy] Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+
 ## Tools
+
+- [#1 Kubernetes Cost Optimization & Automation Platform - CAST AI](https://cast.ai/)
 
 ### HELM
 
