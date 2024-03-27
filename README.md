@@ -48,6 +48,10 @@ Learning about Kubernetes
 
 - [[YouTube Playlist] Kubernetes | Jim's Garage](https://www.youtube.com/playlist?list=PLXHMZDvOn5sVXjb88kYXSI7UMx4rhQwOj)
 
+- [[YouTube] Kubernetes Tutorial: Container vs. Pod vs. Deployment vs. StatefulSet & More | Anton Putra](https://www.youtube.com/watch?v=4MEgCP7h8UU) (2023/12/10)
+
+  - [[GitHub] antonputra/tutorials/lessons/182](https://github.com/antonputra/tutorials/tree/main/lessons/182)
+
 ### Migrate Docker Apps to Kubernetes
 
 - [[YouTube] How To Migrate Docker Apps to Kubernetes Using Helm & Manifest Files. Portainer & WireGuard | Jim's Garage](https://www.youtube.com/watch?v=cm51M5uTBhE) (2023/11/07)
