@@ -54,6 +54,10 @@ Learning about Kubernetes
 
   - [[GitHub] antonputra/tutorials/lessons/182](https://github.com/antonputra/tutorials/tree/main/lessons/182)
 
+- [[YouTube Playlist] Kubernetes Tutorials | Christian Lempa](https://www.youtube.com/playlist?list=PLj-2elZxVPZ8U5_gxuF_GFWelIo9kFlAj)
+
+  - [[YouTube] Kubernetes explained simply, and why you should learn it! | Christian Lempa](https://www.youtube.com/watch?v=glFE28QT1HI) (2021/08/24)
+
 ### Migrate Docker Apps to Kubernetes
 
 - [[YouTube] How To Migrate Docker Apps to Kubernetes Using Helm & Manifest Files. Portainer & WireGuard | Jim's Garage](https://www.youtube.com/watch?v=cm51M5uTBhE) (2023/11/07)
